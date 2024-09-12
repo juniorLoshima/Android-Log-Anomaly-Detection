@@ -1,0 +1,4 @@
+timestamp,process_id,thread_id,log_level,message,message_length,is_error,anomaly_score
+1900-03-17 16:13:46.764,2227,2794,E,KeyguardUpdateMonitor: isSimPinSecure mSimDatas is null or empty ,65,1,-1
+1900-03-17 16:13:47.150,1702,17633,E,ActivityManager: applyOptionsLocked: Unknown animationType=0,60,1,-1
+1900-03-17 16:16:06.872,1702,2639,E,ActivityManager: applyOptionsLocked: Unknown animationType=0,60,1,-1
